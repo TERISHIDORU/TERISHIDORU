@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TERISHIDORU
+- 👋 Hi, I’m @NoOne
 - 👀 I’m interested in software developing & data analysis
 - 🌱 I’m currently learning python & c++
 - 💞️ I’m looking to collaborate on google,microsoft & other tech companies
